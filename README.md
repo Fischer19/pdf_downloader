@@ -1,5 +1,5 @@
 # pdf_downloader
-Make sure scrapy is installed in your computer
+Make sure **scrapy** is installed in your computer
 <br>
 To run the code:
 ```
