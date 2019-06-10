@@ -4,8 +4,6 @@ from scrapy.http import Request
 
 class PdfDownloader(scrapy.Spider):
 	name = 'pdf_downloader'
-	# domain URL
-	#allowed_domains = ['example.com']
 	# links to the specific pages
 	#start_urls = ['https://graphreason.github.io/papers.html']
 	def start_requests(self):
